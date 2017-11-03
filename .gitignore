@@ -1,6 +1,8 @@
 *
 !contracts
 !contracts/*
+!test
+!test/*
 
 #truffle
 migrations
